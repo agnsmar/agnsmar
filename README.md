@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi, I'm Agnes 👋
+
+I like most things web dev. Big fan of TypeScript and Rust, small fan of JavaScript.
+
+Fun Facts
+- Looking for work, find me on www.linkedin.com/in/agnes-martinsson-00b328250
+- I have a Bachelor's degree in Computer Science from Linnaeus University in Kalmar, Sweden
 
 <!--
 **agnsmar/agnsmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
